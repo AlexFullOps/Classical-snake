@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap');
+
+
+body{
+    background-color: black;
+   
+}
+canvas{
+    border: 5px solid rgba(128, 128, 128, 0.308);
+    margin-left: 45%;
+    margin-top: 0px;
+    display: inline;
+    position: relative;
+}
+h1{
+    color: green;
+    font-family: Mrs saint Delafield;
+    font-size: 60px;
+    display: inline;
+}
+p{
+    color: white;
+}
+.coluna-50-1 {
+    width: 30%;
+    display: inline;
+    text-align: left;
+}
+.coluna-50-2 {
+    width: 60%;
+    display: inline;
+    text-align: right;
+}
